@@ -1,4 +1,4 @@
 Kholiq Mitra Raharja = Graph
-Nurmiftah Aziz = Queue
+Nurmiftah Azis = Queue
 Muhammad Bintang Wiratama = Menu
 Yudhi Fajar Pratama = Main (Algofood)
